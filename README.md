@@ -1,6 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻I'm a full stack developer.<br>🌱Currently learning machine learning.<br>🥂I'm interested in collaborating on projects related to my tech stack.<br>⌨️I'm excited to venture into new tech fields.<br>💬Fun fact about me is I don't use Instagram/Snapchat.
-
+🧑🏽‍💻I'm a full stack developer.<br>🌱Currently learning machine learning.<br>🥂I'm interested in collaborating on projects related to my tech stack.<br>⌨️I'm excited to venture into new tech fields.<br>💬Fun fact about me is I don't use Instagram/Snapchat.<br> Mail me at: (sandesh4job@gmail.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sandesh9499) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ss0603) 
