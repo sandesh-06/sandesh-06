@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻I'm a full stack developer.<br>🌱Currently learning to build cool stuffs.<br>🥂I'm interested in collaborating on projects related to my tech stack.<br>⌨️I'm excited to venture into new tech fields.<br>💬Fun fact about me is I don't use Instagram/Snapchat.<br> [Portfolio]([www.google.com](https://sandeshs-portfolio.vercel.app)) Mail: sandesh4job@gmail.com
+🧑🏽‍💻I'm a full stack developer.<br>🌱Currently learning to build cool stuffs.<br>🥂I'm interested in collaborating on projects related to my tech stack.<br>⌨️I'm excited to venture into new tech fields.<br>💬Fun fact about me is I don't use Instagram/Snapchat.<br> [Portfolio](https://sandeshs-portfolio.vercel.app) Mail: sandesh4job@gmail.com
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sandesh9499) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ss0603) 
